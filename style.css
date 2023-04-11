@@ -18,3 +18,23 @@
     cursor: pointer;
     color: white;
 }
+.catagories{
+    color:white;
+}
+.catagory-1{
+    background-color: deeppink;
+    margin-right:10px;
+}
+.catagory-2{
+    background-color: deepskyblue;
+    margin-right:10px;
+}
+.catagory-3{
+    background-color: tomato;
+    
+}
+.catagory-1, .catagory-2, .catagory-3{
+    padding: 10px 30px;
+    align-items: center;
+    border-radius: 15px;;  
+}
